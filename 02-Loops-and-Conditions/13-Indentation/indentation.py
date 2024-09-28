@@ -4,5 +4,3 @@ for i in range(3):
 
     if i == 2:
         print("i is 2")
-
-
